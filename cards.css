@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(85, 103, 180)
+}
+
+.cards-wrapper {
+    display: inline-flexbox;
+    padding: 50px 0;
+}
+
+.card {
+    width: 100%;
+}
